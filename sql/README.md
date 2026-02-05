@@ -7,7 +7,7 @@ The notebooks in this repository showcase my SQL skills in:
 * Using Aggregations
 * Using Window functions
 
-## Files
+## Folders
 | Name | Purpose | RDBMS | Dataset |
 |---|---|---|---|
-| dvdrental EDA | Conduct EDA to answer business focused questions | PostgreSQL | dvdrental |
+| dvdrental | Conduct EDA to answer business focused questions | PostgreSQL | dvdrental |
