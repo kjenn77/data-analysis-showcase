@@ -9,3 +9,8 @@ Here are files showcasing my data analysis skills using Python.
 * seaborn
 * ipython-sql
 * sqlite3
+### [SQL](https://github.com/kjenn77/data-analysis-showcase/tree/main/sql)
+**SQL RDBMS**
+* PostgreSQL
+* BigQuery
+* SQLite
